@@ -2,6 +2,8 @@
 
 > **Ce projet est en cours de développement. Merci d'utiliser ce dépôt Github pour remonter vos bugs et suggestions.**
 
+> **xProtony** affiche les prix et la disponibilité chez plusieurs revendeurs.
+
 ## Produits supportés
 
 Nous n'importons pas la totalité des produits de manière automatique pour surveiller les résultats rendus. Pour demander l'ajout d'un produit, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/xprotony/issues).
