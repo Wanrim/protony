@@ -10,13 +10,7 @@ Nous n'importons pas la totalité des produits de manière automatique pour surv
 
 > Nous remercions chaque personne nous permettant d'accéder au contenu de ces sites. Pour demander l'ajout d'un nouveau site, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/xprotony/issues).
 
-### Vendeurs actuellement supportés
-
-- Topachat(.com)
-- Darty(.com)
-- LDLC(.com)
-- Materiel(.net)
-- Grosbill(.com)
+### [Vendeurs actuellement supportés](https://github.com/Wanrim/xprotony/issues/1)
 
 ## Roadmap
 
