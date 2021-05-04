@@ -1,5 +1,7 @@
 # xProtony
 
+![su](https://raw.githubusercontent.com/Wanrim/xprotony/main/su.png)
+
 > **Ce projet est en cours de développement. Merci d'utiliser ce dépôt Github pour remonter vos bugs et suggestions.**
 
 > **xProtony** affiche les prix et la disponibilité chez plusieurs revendeurs.
