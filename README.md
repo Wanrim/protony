@@ -22,6 +22,8 @@ Nous n'importons pas la totalité des produits de manière automatique pour surv
 
 - Interface comparateur de prix (+++)
 
+- Ajout du système de marketplaces (+++) [Lien du topic](https://github.com/Wanrim/xprotony/issues/2)
+
 - Interface configurateur PC (++)
 
 - Traitement du coût de livraison par revendeur (+)
