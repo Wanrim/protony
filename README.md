@@ -1,20 +1,20 @@
-# xProtony
+# Protony
 
-![su](https://raw.githubusercontent.com/Wanrim/xprotony/main/su.png)
+![su](https://raw.githubusercontent.com/Wanrim/protony/main/su.png)
 
 > **Ce projet est en cours de développement. Merci d'utiliser ce dépôt Github pour remonter vos bugs et suggestions.**
 
-> **xProtony** affiche les prix et la disponibilité chez plusieurs revendeurs.
+> **Protony** affiche les prix et la disponibilité chez plusieurs revendeurs.
 
 ## Produits supportés
 
-Nous n'importons pas la totalité des produits de manière automatique pour surveiller les résultats rendus. Pour demander l'ajout d'un produit, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/xprotony/issues).
+Nous n'importons pas la totalité des produits de manière automatique pour surveiller les résultats rendus. Pour demander l'ajout d'un produit, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/protony/issues).
 
 ## Vendeurs supportés
 
-> Nous remercions chaque personne nous permettant d'accéder au contenu de ces sites. Pour demander l'ajout d'un nouveau site, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/xprotony/issues).
+> Nous remercions chaque personne nous permettant d'accéder au contenu de ces sites. Pour demander l'ajout d'un nouveau site, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/protony/issues).
 
-### [Vendeurs actuellement supportés](https://github.com/Wanrim/xprotony/issues/1)
+### [Vendeurs actuellement supportés](https://github.com/Wanrim/protony/issues/1)
 
 ## Roadmap
 
@@ -22,7 +22,7 @@ Nous n'importons pas la totalité des produits de manière automatique pour surv
 
 - Interface comparateur de prix (+++)
 
-- Ajout du système de marketplaces (+++) [Lien du topic](https://github.com/Wanrim/xprotony/issues/2)
+- Ajout du système de marketplaces (+++) [Lien du topic](https://github.com/Wanrim/protony/issues/2)
 
 - Interface configurateur PC (++)
 
