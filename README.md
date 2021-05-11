@@ -1,7 +1,5 @@
 # Protony
 
-![su](https://raw.githubusercontent.com/Wanrim/protony/main/su.png)
-
 > **Ce projet est en cours de développement. Merci d'utiliser ce dépôt Github pour remonter vos bugs et suggestions.**
 
 > **Protony** affiche les prix et la disponibilité chez plusieurs revendeurs.
