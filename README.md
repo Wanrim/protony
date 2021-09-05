@@ -2,11 +2,7 @@
 
 > **Ce projet est en cours de développement. Merci d'utiliser ce dépôt Github pour remonter vos bugs et suggestions.**
 
-> **Protony** affiche les prix et la disponibilité chez plusieurs revendeurs.
-
-## Produits supportés
-
-Nous n'importons pas la totalité des produits de manière automatique pour surveiller les résultats rendus. Pour demander l'ajout d'un produit, merci de soumettre un nouveau sujet à [l'adresse suivante](https://github.com/Wanrim/protony/issues).
+> **Protony** affiche les prix et la disponibilité chez plusieurs revendeurs, sans affiliation avec des API gratuites et neutres.
 
 ## Vendeurs supportés
 
@@ -16,12 +12,10 @@ Nous n'importons pas la totalité des produits de manière automatique pour surv
 
 ## Roadmap
 
-- Ajout d'autres revendeurs (++++)
+- Ajout d'autres revendeurs (+++)
 
-- Interface comparateur de prix (+++)
+- Toutes API revendeurs disponibles gratuitement en libre service (maj @30min) (++)
 
-- Ajout du système de marketplaces (+++) [Lien du topic](https://github.com/Wanrim/protony/issues/2)
-
-- Interface configurateur PC (++)
+- Ajout du système de marketplaces (+) [Lien du topic](https://github.com/Wanrim/protony/issues/2)
 
 - Traitement du coût de livraison par revendeur (+)
