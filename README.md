@@ -1,5 +1,7 @@
 # Protony
 
+# **CE PROJET N'EST PLUS MAINTENU**
+
 > **Ce projet est en cours de développement. Merci d'utiliser ce dépôt Github pour remonter vos bugs et suggestions.**
 
 > **Protony** affiche les prix et la disponibilité chez plusieurs revendeurs, sans affiliation avec des API gratuites et neutres.
